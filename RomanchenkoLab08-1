@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<title>Форматування тексту</title>
+</head>
+
+<body style="background-color: #FFF0F5;">
+
+<h2 style="color: darkred; text-align: center;">
+    Сучасні інформаційні технології
+</h2>
+
+<p style="color: blue; font-size: 20px;
+          font-family: Arial; text-align: left;">
+    Інформаційні технології відіграють важливу роль
+    у сучасному житті. Вони допомагають людям
+    навчатися, працювати та спілкуватися.
+</p>
+
+<p style="color: green; font-size: 18px;
+          font-family: Georgia; font-style: italic;
+          text-align: justify;">
+    Комп'ютери використовуються в освіті, медицині,
+    науці та промисловості. Завдяки розвитку
+    технологій багато завдань виконуються швидше.
+</p>
+
+<p style="color: purple; font-size: 22px;
+          font-weight: bold; text-align: center;
+          text-decoration: underline;">
+    Інтернет забезпечує швидкий доступ до інформації
+    та дозволяє спілкуватися з людьми по всьому світу.
+</p>
+
+<p style="color: brown; font-size: 19px;
+          font-family: Verdana; text-align: right;
+          letter-spacing: 2px;">
+    Програмування є важливою частиною інформаційних
+    технологій. Воно дозволяє створювати сайти,
+    програми та мобільні додатки.
+</p>
+
+<p style="color: black; font-size: 18px;
+          line-height: 2; text-indent: 30px;
+          text-transform: uppercase;">
+    Вивчення інформаційних технологій відкриває
+    нові можливості для професійного розвитку.
+</p>
+
+</body>
+</html>
